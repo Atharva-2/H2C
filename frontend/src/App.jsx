@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Home from "./pages/Home";
+// import Home from "./pages/Home";
+import Home from "./pages/home";
 import ThreatMap from "./pages/ThreatMap";
 // import ReportThreat from "./pages/ReportThreat";
 // import Login from "./pages/Login";
